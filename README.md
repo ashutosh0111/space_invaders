@@ -1,7 +1,5 @@
 # Space Invader Remake
 
-![Space Invader Screenshot](screenshot.png)
-
 This project is a remake of the classic Space Invader game using JavaScript and HTML5 Canvas. The game incorporates various modern elements while staying true to the original gameplay. You'll find features like spaceship tilting, invaders firing back, and dynamic blast animations that enhance the gaming experience.
 
 ## Gameplay
